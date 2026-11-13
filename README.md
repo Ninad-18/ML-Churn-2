@@ -187,5 +187,4 @@ Review the model comparison table, evaluation metrics, confusion matrices, and v
 
 ---
 
-**Title:** Mini Project Based on Data Science – Telco Customer Churn Prediction  
 **Author:** Ninad Patil
